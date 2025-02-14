@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DD_RE_Login_UatProfile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98fb5c7d-daef-410f-a38e-0fd9ff6c18d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11c3ae38-81e3-4658-a448-6039e4abfd77</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5d3d55f-9920-4cda-98a3-1d37f5662b75</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@waybeo.com'</defaultValue>
+      <description>username variable dd</description>
+      <id>11c3ae38-81e3-4658-a448-6039e4abfd77</id>
+      <masked>false</masked>
+      <name>userNameDD</name>
+   </variable>
+   <variable>
+      <defaultValue>'Qwerty@123'</defaultValue>
+      <description>default password</description>
+      <id>f5d3d55f-9920-4cda-98a3-1d37f5662b75</id>
+      <masked>false</masked>
+      <name>passwordDD</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RoyalEnfield_Login_Check_Live_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68a0ab3c-eb48-4d55-8411-d018920f704a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3008a509-18c3-4236-afbb-7f7a59ba7aa1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29bb1311-73cf-438c-9e1a-d53c0ccab70b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@waybeo.com'</defaultValue>
+      <description></description>
+      <id>3008a509-18c3-4236-afbb-7f7a59ba7aa1</id>
+      <masked>false</masked>
+      <name>userNameLive</name>
+   </variable>
+   <variable>
+      <defaultValue>'waybeo#re@admin2!'</defaultValue>
+      <description></description>
+      <id>29bb1311-73cf-438c-9e1a-d53c0ccab70b</id>
+      <masked>false</masked>
+      <name>passwordLive</name>
+   </variable>
+</TestCaseEntity>
